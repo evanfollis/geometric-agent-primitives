@@ -1,5 +1,12 @@
 # Synaplex
 
+> **Archived design lineage.** This repository is a historical snapshot and is
+> no longer maintained. Its verified scope, retained assets, known failures,
+> and relationship to the current Synaplex system are documented at
+> [synaplex.ai/lineage/geometric-agent-primitives](https://synaplex.ai/lineage/geometric-agent-primitives/).
+> Nothing here is a current Synaplex Claim, Evidence record, finding, or active
+> study.
+
 > Synaplex is an architecture for AI systems made of many interacting minds. Each mind maintains its own internal sediment (a **Substrate**) while coordinating through a structured graph of **Textures**.
 
 Synaplex has two inseparable faces:
